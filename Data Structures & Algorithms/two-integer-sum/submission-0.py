@@ -10,4 +10,3 @@ class Solution:
         return
 
         #Time complexity O(n), since we only once iterate
-        # Space complexity O(n)
